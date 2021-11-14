@@ -12,7 +12,11 @@ This is a command line application that create a high-quality README file quickl
 ## Installation
 Clone the readme-generator repository to your local computer. Run ```npm install``` in the command line or terminal(Mac) to install dependencies. 
 ## Usage
-Open Command line (Windows) or Terminal (Mac). Go to the readme-generator folder then run ```node index.js``` Answers all the prompted questions. When questions finished ```Written successfully``` message appears and the README file is added to the readme-generator folder. 
+Open Command line (Windows) or Terminal (Mac). Go to the readme-generator folder then run ```node index.js``` Answers all the prompted questions. When questions finished ```Written successfully``` message appears and the README file is added to the readme-generator folder.
+
+![Application gif](images/gif1.gif)
+ 
+![Application gif](images/gif2.gif) 
 ## Contributing
 Not Avialable
 ## Tests
