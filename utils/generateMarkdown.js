@@ -49,6 +49,7 @@ ${renderLicenseBadge(license)}
 * [Usage](#Usage)
 * [Contributing](#Contributing)
 * [Tests](#Tests)
+* [License](#License)
 * [Questions](#Questions)
 ## Installation
 ${installation}

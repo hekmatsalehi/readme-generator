@@ -6,8 +6,7 @@ This is a command line application that create a high-quality README file quickl
 ## Table of Contents
 * [Installation](#Installation)
 * [Usage](#Usage)
-* [Contributing](#Contributing)
-* [Tests](#Tests)
+* [License](#License)
 * [Questions](#Questions)
 ## Installation
 Clone the readme-generator repository to your local computer. Run ```npm install``` in the command line or terminal(Mac) to install dependencies. 
@@ -17,10 +16,6 @@ Open Command line (Windows) or Terminal (Mac). Go to the readme-generator folder
 ![Application gif](images/gif1.gif)
  
 ![Application gif](images/gif2.gif) 
-## Contributing
-Not Avialable
-## Tests
-
 ## License
 This Application is covered under MITLicense
 
