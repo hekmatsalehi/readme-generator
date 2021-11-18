@@ -16,6 +16,7 @@ Open Command line (Windows) or Terminal (Mac). Go to the readme-generator folder
 ![Application gif](images/gif1.gif)
  
 ![Application gif](images/gif2.gif)
+
 [Walkthrough Video](https://drive.google.com/file/d/1S3B8-k4SMppkeeQ-FNlbTv613IrSxRaR/view?usp=sharing) 
 ## License
 This Application is covered under MITLicense
